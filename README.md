@@ -5,7 +5,7 @@
 # iiamyyy66
 
 <a href="https://github.com/lyra81604">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=20&duration=3000&pause=900&color=A47864&center=true&vCenter=true&width=520&lines=DS+%C2%B7+Finance+%C2%B7+Art;Postgraduate+%40+University+of+Macau;Skill+creator;Follow+me+for+practical+%26+fun+skills" alt="typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=A47864&center=true&vCenter=true&width=560&lines=DS+%F0%9F%93%8A+%C2%B7+Finance+%F0%9F%93%88+%C2%B7+Art+%F0%9F%8E%A8;Postgraduate+%40+University+of+Macau+%F0%9F%8E%93;Skill+creator+%F0%9F%98%8B;Follow+me+for+practical+%26+fun+skills+%E2%80%BC%EF%B8%8F" alt="typing tagline" />
 </a>
 
 <br/>
@@ -36,7 +36,7 @@
 
 <!-- Spotify · powered by github.com/kittinan/spotify-github-profile -->
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xnwupcfn7e32sjvqklzwfioeyq&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xnwupcfn7e32sjvqklzwfioeyq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" alt="Spotify now playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xnwupcfn7e32sjvqklzwfioeyq&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="Spotify now playing" />
 </a>
 
 <br/>
