@@ -41,7 +41,7 @@
 
 <br/>
 
-<sub>🎧 currently obsessed with <a href="https://open.spotify.com/artist/01dMHEjjnXST0bQByZElGV">陶喆 (David Tao)</a></sub>
+<sub>🎧 currently obsessed with <a href="https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB">陶喆 (David Tao)</a></sub>
 
 </div>
 
