@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<a href="https://github.com/lyra81604/zhengxi-views"><img width="600" src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=zhengxi-views&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864&description_lines_count=3" alt="zhengxi-views" /></a>
+<a href="https://github.com/lyra81604/zhengxi-views"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=zhengxi-views&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864&description_lines_count=3" alt="zhengxi-views" /></a>
 
 </div>
 
