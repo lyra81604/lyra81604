@@ -49,13 +49,7 @@
 
 ## ✦ featured · 强烈推荐 ⭐
 
-<div align="center">
-
-<a href="https://github.com/lyra81604/zhengxi-views">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=zhengxi-views&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864&description_lines_count=3" alt="zhengxi-views" />
-</a>
-
-</div>
+<a href="https://github.com/lyra81604/zhengxi-views"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=zhengxi-views&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864&description_lines_count=3" alt="zhengxi-views" /></a>
 
 > 🌟 我的代表作 — **1k+ stars** ·  可溯源的郑希(易方达基金经理)投研 Agent Skill。
 > 基于全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，溯源问答、按框架给基金打分，绝不杜撰。
@@ -97,16 +91,14 @@
 
 <div align="center">
 
-<a href="mailto:lyra81604@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-lyra81604@gmail.com-a47864?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-&nbsp;
-<!-- ⚠️ Replace the link below with your real 小红书 profile URL -->
-<a href="https://xhslink.com/m/6rhCIWVLlAL">
-  <img src="https://img.shields.io/badge/小红书-冷漠邻居-a47864?style=flat-square&logo=xiaohongshu&logoColor=white" alt="小红书" />
-</a>
+<table align="center">
+<tr>
+<td><a href="mailto:lyra81604@gmail.com"><img src="https://img.shields.io/badge/Gmail-lyra81604@gmail.com-a47864?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a></td>
+<td><a href="https://xhslink.com/m/6rhCIWVLlAL"><img src="https://img.shields.io/badge/小红书-冷漠邻居-a47864?style=flat-square&logo=xiaohongshu&logoColor=white" alt="小红书" /></a></td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <sub>‼️ <b>FOLLOW ME</b> for more practical & fun skills ‼️</sub>
 
