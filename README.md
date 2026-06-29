@@ -49,7 +49,11 @@
 
 ## ✦ featured · 强烈推荐 ⭐
 
-<a href="https://github.com/lyra81604/zhengxi-views"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=zhengxi-views&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864&description_lines_count=3" alt="zhengxi-views" /></a>
+<div align="center">
+
+<a href="https://github.com/lyra81604/zhengxi-views"><img width="600" src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=zhengxi-views&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864&description_lines_count=3" alt="zhengxi-views" /></a>
+
+</div>
 
 > 🌟 我的代表作 — **1k+ stars** ·  可溯源的郑希(易方达基金经理)投研 Agent Skill。
 > 基于全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，溯源问答、按框架给基金打分，绝不杜撰。
@@ -59,20 +63,16 @@
 
 ## ✦ repositories · sorted by ⭐
 
-<!-- ordered high → low by stars · table layout avoids stray link underlines -->
-<table align="center">
-<tr>
-<td><a href="https://github.com/lyra81604/CFA-skill_cfa-level1-tutor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=CFA-skill_cfa-level1-tutor&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="CFA-skill_cfa-level1-tutor" /></a></td>
-<td><a href="https://github.com/lyra81604/who-is-the-best-manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=who-is-the-best-manager&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="who-is-the-best-manager" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/lyra81604/peer-review"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=peer-review&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="peer-review" /></a></td>
-<td><a href="https://github.com/lyra81604/China-A-Shares-Information-Assistant_v1.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=China-A-Shares-Information-Assistant_v1.0&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="China-A-Shares-Information-Assistant" /></a></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><a href="https://github.com/lyra81604/CPA-Skill"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=CPA-Skill&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="CPA-Skill" /></a></td>
-</tr>
-</table>
+<div align="center">
+
+<!-- ordered high → low by stars · single-line anchors avoid borders & stray underlines -->
+<a href="https://github.com/lyra81604/CFA-skill_cfa-level1-tutor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=CFA-skill_cfa-level1-tutor&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="CFA-skill_cfa-level1-tutor" /></a> &nbsp; <a href="https://github.com/lyra81604/who-is-the-best-manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=who-is-the-best-manager&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="who-is-the-best-manager" /></a>
+<br/><br/>
+<a href="https://github.com/lyra81604/peer-review"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=peer-review&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="peer-review" /></a> &nbsp; <a href="https://github.com/lyra81604/China-A-Shares-Information-Assistant_v1.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=China-A-Shares-Information-Assistant_v1.0&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="China-A-Shares-Information-Assistant" /></a>
+<br/><br/>
+<a href="https://github.com/lyra81604/CPA-Skill"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=CPA-Skill&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="CPA-Skill" /></a>
+
+</div>
 
 <br/>
 
@@ -91,12 +91,7 @@
 
 <div align="center">
 
-<table align="center">
-<tr>
-<td><a href="mailto:lyra81604@gmail.com"><img src="https://img.shields.io/badge/Gmail-lyra81604@gmail.com-a47864?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a></td>
-<td><a href="https://xhslink.com/m/6rhCIWVLlAL"><img src="https://img.shields.io/badge/小红书-冷漠邻居-a47864?style=flat-square&logo=xiaohongshu&logoColor=white" alt="小红书" /></a></td>
-</tr>
-</table>
+<a href="mailto:lyra81604@gmail.com"><img src="https://img.shields.io/badge/Gmail-lyra81604@gmail.com-a47864?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp; <a href="https://xhslink.com/m/6rhCIWVLlAL"><img src="https://img.shields.io/badge/小红书-冷漠邻居-a47864?style=flat-square&logo=xiaohongshu&logoColor=white" alt="小红书" /></a>
 
 <br/>
 
