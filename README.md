@@ -26,7 +26,9 @@
 >
 > 📕 小红书 **冷漠邻居**  ·  🫘 **iiamyyy66**
 >
-> ‼️ **FOLLOW ME** to get more practical and fun skills ‼️
+> **BETTER THAN EVER**
+>
+> 谢谢你们的关注和Stars🌟 **FOLLOW ME** to get more practical and fun skills‼️
 
 <br/>
 
