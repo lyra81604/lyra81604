@@ -28,7 +28,7 @@
 >
 > **BETTER THAN EVER**
 >
-> 谢谢你们的关注和Stars🌟 **FOLLOW ME** to get more practical and fun skills‼️
+> 谢谢你们的关注和 Stars 🌟 **FOLLOW ME** to get more practical and fun skills ‼️
 
 <br/>
 
@@ -51,41 +51,35 @@
 
 ## ✦ featured · 强烈推荐 ⭐
 
-<div align="center">
-
-<a href="https://github.com/lyra81604/zhengxi-views"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=zhengxi-views&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864&description_lines_count=3" alt="zhengxi-views" /></a>
-
-</div>
-
-> 🌟 我的代表作 — **1k+ stars** ·  可溯源的郑希(易方达基金经理)投研 Agent Skill。
-> 基于全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，溯源问答、按框架给基金打分，绝不杜撰。
+> 🌟 我的代表作 — **1k+ stars** · 可溯源的郑希（易方达基金经理）投研 Agent Skill。  
+> 基于全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，溯源问答、按框架给基金打分，绝不杜撰。  
 > **如果你只想看一个仓库，看这个。** 👉 [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)
 
 <br/>
 
 ## ✦ repositories · sorted by ⭐
 
-<div align="center">
-
-<!-- ordered high → low by stars · single-line anchors avoid borders & stray underlines -->
-<a href="https://github.com/lyra81604/CFA-skill_cfa-level1-tutor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=CFA-skill_cfa-level1-tutor&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="CFA-skill_cfa-level1-tutor" /></a> &nbsp; <a href="https://github.com/lyra81604/who-is-the-best-manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=who-is-the-best-manager&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="who-is-the-best-manager" /></a>
-<br/><br/>
-<a href="https://github.com/lyra81604/peer-review"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=peer-review&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="peer-review" /></a> &nbsp; <a href="https://github.com/lyra81604/China-A-Shares-Information-Assistant_v1.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=China-A-Shares-Information-Assistant_v1.0&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="China-A-Shares-Information-Assistant" /></a>
-<br/><br/>
-<a href="https://github.com/lyra81604/CPA-Skill"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lyra81604&repo=CPA-Skill&bg_color=00000000&hide_border=true&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="CPA-Skill" /></a>
-
-</div>
+| Project | What it is |
+| --- | --- |
+| [zhengxi-views](https://github.com/lyra81604/zhengxi-views) | 可溯源的郑希投研 Agent Skill |
+| [CFA-skill_cfa-level1-tutor](https://github.com/lyra81604/CFA-skill_cfa-level1-tutor) | CFA Level I bilingual tutor skill |
+| [who-is-the-best-manager](https://github.com/lyra81604/who-is-the-best-manager) | Fund manager comparison / analysis project |
+| [peer-review](https://github.com/lyra81604/peer-review) | Peer review assistant |
+| [China-A-Shares-Information-Assistant_v1.0](https://github.com/lyra81604/China-A-Shares-Information-Assistant_v1.0) | China A-shares information assistant |
+| [CPA-Skill](https://github.com/lyra81604/CPA-Skill) | CPA learning / assistant skill |
 
 <br/>
 
 ## ✦ stats
 
-<div align="center">
+GitHub dynamic stat cards were removed here because the public `github-readme-stats.vercel.app` deployment is currently returning `DEPLOYMENT_PAUSED`.
 
-<img src="https://github-readme-stats.vercel.app/api?username=lyra81604&show_icons=true&hide_border=true&bg_color=00000000&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="github stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyra81604&layout=compact&hide_border=true&bg_color=00000000&title_color=a47864&text_color=8b949e" alt="top languages" height="160" />
+You can bring them back after deploying your own instance:
 
-</div>
+```md
+<img src="https://YOUR-OWN-DEPLOYMENT.vercel.app/api?username=lyra81604&show_icons=true&hide_border=true&bg_color=00000000&title_color=a47864&text_color=8b949e&icon_color=a47864" alt="github stats" height="160" />
+<img src="https://YOUR-OWN-DEPLOYMENT.vercel.app/api/top-langs/?username=lyra81604&layout=compact&hide_border=true&bg_color=00000000&title_color=a47864&text_color=8b949e" alt="top languages" height="160" />
+```
 
 <br/>
 
