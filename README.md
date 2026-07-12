@@ -28,7 +28,9 @@
 >
 > **BETTER THAN EVER**
 >
-> 实习中，更新会慢一些。谢谢你们的关注和Stars🌟 **FOLLOW ME** to get more practical and fun skills‼️
+> 變成陶喆歌詞裏的沙丁魚去實習了🏦
+>
+> 谢谢你们的关注和Stars🌟 **FOLLOW ME** to get more practical and fun skills‼️
 
 <br/>
 
