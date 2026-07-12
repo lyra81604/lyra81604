@@ -28,7 +28,7 @@
 >
 > **BETTER THAN EVER**
 >
-> 谢谢你们的关注和Stars🌟 **FOLLOW ME** to get more practical and fun skills‼️
+> 实习中，更新会慢一些。谢谢你们的关注和Stars🌟 **FOLLOW ME** to get more practical and fun skills‼️
 
 <br/>
 
