@@ -28,7 +28,7 @@
 >
 > **BETTER THAN EVER**
 >
-> 變成陶喆歌詞裏的沙丁魚去實習了🏦
+> 變成陶喆歌詞裏的沙丁魚去實習了🏦 秋招中，愿望是天降offer😇
 >
 > 谢谢你们的关注和Stars🌟 **FOLLOW ME** to get more practical and fun skills‼️
 
