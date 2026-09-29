@@ -28,7 +28,7 @@
 >
 > **BETTER THAN EVER**
 >
-> 變成陶喆歌詞裏的沙丁魚去實習了🏦 备战秋招中😇
+> 被秋招折磨疯了，有没有公司或项目来找我莫名其妙合作一下😇
 >
 > 谢谢你们的关注和Stars🌟 **FOLLOW ME** to get more practical and fun skills‼️
 
