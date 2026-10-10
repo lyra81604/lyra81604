@@ -28,7 +28,7 @@
 >
 > **BETTER THAN EVER**
 >
-> 被秋招折磨疯了，有没有公司或项目来找我莫名其妙合作一下😇
+> 还在秋招😇
 >
 > 谢谢你们的关注和Stars🌟 **FOLLOW ME** to get more practical and fun skills‼️
 
