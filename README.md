@@ -28,7 +28,7 @@
 >
 > **BETTER THAN EVER**
 >
-> 还在秋招😇
+> 想创业了😇
 >
 > 谢谢你们的关注和Stars🌟 **FOLLOW ME** to get more practical and fun skills‼️
 
