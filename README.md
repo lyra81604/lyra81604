@@ -28,7 +28,7 @@
 >
 > **BETTER THAN EVER**
 >
-> 想创业了😇
+> 合作邮箱📬：lyra81604@gmail.com
 >
 > 谢谢你们的关注和Stars🌟 **FOLLOW ME** to get more practical and fun skills‼️
 
